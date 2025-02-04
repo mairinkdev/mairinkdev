@@ -1,6 +1,6 @@
 ## 👨‍💻 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,python,lua)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,python,lua,java,csharp)](https://skillicons.dev)<br><br>
 
 ---
 
@@ -10,12 +10,12 @@
 ---
 
 ## 🔧 Tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,notion,github,figma,bash)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=vscode,notion,github,figma,bash,docker)](https://skillicons.dev)<br><br>
 
 ---
 
 ## 🔧 Technology's
-[![My Skills](https://skillicons.dev/icons?i=mysql,nodejs,react,bootstrap,git)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,nodejs,react,express,bootstrap,tailwind,git)](https://skillicons.dev)<br><br>
 
 ---
 
