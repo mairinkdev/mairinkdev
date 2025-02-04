@@ -5,7 +5,7 @@
 ---
 
 ## 🔧 Sistemas/Ferramentas/Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=windows,apple,kali,vscode,notion,mysql,nodejs,react,github,figma,bash,bootstrap,bots,git)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,apple,vscode,notion,mysql,nodejs,react,github,figma,bash,bootstrap,git)](https://skillicons.dev)<br><br>
 
 ---
 
