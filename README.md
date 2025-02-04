@@ -1,6 +1,6 @@
 ## 👨‍💻 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,cs,python,java,)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,cs,python,)](https://skillicons.dev)<br><br>
 
 ---
 
