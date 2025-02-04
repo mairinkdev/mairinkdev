@@ -1,7 +1,7 @@
-## Olá!
+## Hey!
 
-Entusiasta de tecnologia e aspirante a engenheiro de software com uma sólida formação em programação, redes e cibersegurança. 
-Estou constantemente expandindo meu conhecimento e pronto para enfrentar novos desafios em minha carreira.
+Technology enthusiast and aspiring software engineer with a strong foundation in programming, networks, and cybersecurity. 
+Constantly expanding my knowledge and ready to take on new challenges.
 
 ---
 
@@ -18,5 +18,5 @@ Estou constantemente expandindo meu conhecimento e pronto para enfrentar novos d
 
 ## 📫 Contato
 
-[![Apple Badge](https://img.shields.io/badge/-arthurmairink@icloud.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{af.mairink@gmail.com})](mailto:{af.mairink@gmail.com})
+[![Apple Badge](https://img.shields.io/badge/-arthurmairink@icloud.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{arthur@mairink.com.br})](mailto:{af.mairink@gmail.com})
 [![Linkedin: Arthur Mairink](https://img.shields.io/badge/-ArthurMairink-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-mairink/-b7356a2b6/)](https://www.linkedin.com/in/arthur-mairink/)
