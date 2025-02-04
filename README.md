@@ -1,10 +1,3 @@
-## Hey!
-
-Technology enthusiast and aspiring software engineer with a strong foundation in programming, networks, and cybersecurity. 
-Constantly expanding my knowledge and ready to take on new challenges.
-
----
-
 ## 👨‍💻 Skills
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,python,lua)](https://skillicons.dev)<br><br>
