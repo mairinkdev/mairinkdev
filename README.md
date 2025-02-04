@@ -1,4 +1,4 @@
-## Olá, meu nome é Arthur Mairink!
+## Olá!
 
 Entusiasta de tecnologia e aspirante a engenheiro de software com uma sólida formação em programação, redes e cibersegurança. 
 Estou constantemente expandindo meu conhecimento e pronto para enfrentar novos desafios em minha carreira.
