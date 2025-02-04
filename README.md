@@ -1,10 +1,7 @@
 ## Olá, meu nome é Arthur Mairink!
 
-Sou um entusiasta da tecnologia,
-desde os 9 anos, me interesso no mundo da programação, redes de computadores e cibersegurança,
-com uma paixão por aprender sobre esse mundo, tenho explorado diversos cursos e estudos para aprimorar minhas habilidades,
-meu objetivo é me tornar um engenheiro de software renomado no futuro,
-estou sempre em busca de novos desafios e oportunidades para crescer nesse fascinante campo da tecnologia.
+Entusiasta de tecnologia e aspirante a engenheiro de software com uma sólida formação em programação, redes e cibersegurança. 
+Estou constantemente expandindo meu conhecimento e pronto para enfrentar novos desafios em minha carreira.
 
 ---
 
