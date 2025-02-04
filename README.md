@@ -4,8 +4,14 @@
 
 ---
 
-## 🔧 Sistemas/Ferramentas/Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=windows,linux,apple,vscode,notion,mysql,nodejs,react,github,figma,bash,bootstrap,git)](https://skillicons.dev)<br><br>
+## 🔧 OS
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,apple)](https://skillicons.dev)<br><br>
+
+## 🔧 Tools
+[![My Skills](https://skillicons.dev/icons?i=vscode,notion,github,figma,bash)](https://skillicons.dev)<br><br>
+
+## 🔧 Tecnologias
+[![My Skills](https://skillicons.dev/icons?i=mysql,nodejs,react,bootstrap,git)](https://skillicons.dev)<br><br>
 
 ---
 
