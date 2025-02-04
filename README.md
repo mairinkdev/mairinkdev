@@ -5,7 +5,7 @@
 ---
 
 ## 🔧 OS
-[![My Skills](https://skillicons.dev/icons?i=windows,linux,apple)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=windows,linux)](https://skillicons.dev)<br><br>
 
 ---
 
