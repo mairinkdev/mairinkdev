@@ -15,7 +15,7 @@
 ---
 
 ## 🔧 Technology's
-[![My Skills](https://skillicons.dev/icons?i=mysql,nodejs,react,express,tailwind,mongodb,bootstrap,git)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=mysql,nodejs,react,nextjs,tailwind,mongodb,bootstrap,git)](https://skillicons.dev)<br><br>
 
 ---
 
