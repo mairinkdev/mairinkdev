@@ -3,7 +3,7 @@
 <h1 align="center">Arthur Mairink</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FF0000&size=22&center=true&vCenter=true&width=1000&lines=Full-Stack+Developer,+Cybersecurity+Practitioner;Explorando+o+universo+da+tecnologia;Desenvolvendo+soluções+inovadoras;Aprendendo+e+evoluindo+constantemente"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FF0000&size=25&center=true&vCenter=true&width=1000&lines=Full-Stack+Developer;Cybersecurity+Practitioner" />
 </p>
 
 ---
