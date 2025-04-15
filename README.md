@@ -50,8 +50,8 @@
 ### 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mairinkdev&show_icons=true&theme=radical&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mairinkdev&theme=radical&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mairinkdev&show_icons=true&theme=tokyonight&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=0d1117&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mairinkdev&layout=compact&theme=tokyonight&title_color=ff0000&text_color=ffffff&bg_color=0d1117&hide_border=true"/>
 </div>
 
 ---
