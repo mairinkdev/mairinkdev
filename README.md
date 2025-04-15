@@ -44,7 +44,7 @@ I strive to apply technical knowledge in a practical and creative way to solve r
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px" title="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40px" title="Express"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40px" title="GraphQL"/>
-  <img src="https://img.shields.io/badge/REST-API-ff0000?style=flat&logo=api&logoColor=white" title="REST APIs"/>
+  <img src="https://img.shields.io/badge/REST%20API-000000?style=flat&logo=fastapi&logoColor=white" title="REST APIs"/>
 </div>
 
 #### Data
@@ -54,7 +54,7 @@ I strive to apply technical knowledge in a practical and creative way to solve r
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40px" title="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40px" title="Firebase"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40px" title="Redis"/>
-  <img src="https://img.shields.io/badge/SQL-Query-ff0000?style=flat&logo=sqlite&logoColor=white" title="SQL"/>
+  <img src="https://img.shields.io/badge/SQL%20Query-000000?style=flat&logo=sqlite&logoColor=white" title="SQL"/>
 </div>
 
 #### DevOps
@@ -62,9 +62,9 @@ I strive to apply technical knowledge in a practical and creative way to solve r
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40px" title="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px" title="GitHub"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-Pipeline-ff0000?style=flat&logo=githubactions&logoColor=white" title="CI/CD"/>
+  <img src="https://img.shields.io/badge/CI/CD-000000?style=flat&logo=githubactions&logoColor=white" title="CI/CD"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40px" title="Linux"/>
-  <img src="https://img.shields.io/badge/Terminal-Shell-ff0000?style=flat&logo=gnubash&logoColor=white" title="Terminal"/>
+  <img src="https://img.shields.io/badge/Shell-Terminal-000000?style=flat&logo=gnubash&logoColor=white" title="Terminal"/>
 </div>
 
 ---
