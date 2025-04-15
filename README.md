@@ -13,8 +13,6 @@ I strive to apply technical knowledge in a practical and creative way to solve r
 
 ---
 
-### 🔗
-
 <div align="left">
   <a href="mailto:arthur@email.com">
     <img src="https://img.shields.io/badge/Gmail-ff0000?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -28,8 +26,6 @@ I strive to apply technical knowledge in a practical and creative way to solve r
 </div>
 
 ---
-
-### 🛠️
 
 #### 🎨 Frontend
 <div align="center">
