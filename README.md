@@ -82,6 +82,4 @@ I strive to apply technical knowledge in a practical and creative way to solve r
 
 ---
 
-⭐ **Se curtir meu trabalho, deixa uma ⭐ nos repositórios e me segue por aqui!**
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer"/>
