@@ -1,9 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=header"/>
 
 <h1 align="center">Arthur Mairink</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FF0000&size=25&center=true&vCenter=true&width=1000&lines=Full-Stack+Developer;Cybersecurity+Practitioner" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com/?color=FF0000&size=25&center=true&vCenter=true&width=1000&lines=Full-Stack+Developer;Cybersecurity+Practitioner" />
 
 ---
 
