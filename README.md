@@ -1,10 +1,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=header"/>
 
 <h1 align="center">Arthur Mairink</h1>
-<h3 align="center">Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FF0000&size=22&center=true&vCenter=true&width=1000&lines=Explorando+o+universo+da+tecnologia;Desenvolvendo+soluções+inovadoras;Aprendendo+e+evoluindo+constantemente" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FF0000&size=22&center=true&vCenter=true&width=1000&lines=Full-Stack+Developer,+Cybersecurity+Practitioner;Explorando+o+universo+da+tecnologia;Desenvolvendo+soluções+inovadoras;Aprendendo+e+evoluindo+constantemente"/>
 </p>
 
 ---
