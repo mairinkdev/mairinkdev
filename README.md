@@ -17,7 +17,7 @@ I strive to apply technical knowledge in a practical and creative way to solve r
   <a href="mailto:arthur@email.com">
     <img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/arthurmairink" target="_blank">
+  <a href="https://www.linkedin.com/in/arthur-mairink/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/mairinkdev" target="_blank">
