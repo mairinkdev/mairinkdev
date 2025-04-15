@@ -88,12 +88,6 @@ Busco aplicar conhecimento técnico de forma prática e criativa para resolver p
 
 ---
 
-### 🚀
-
-[![Arthur's GitHub activity](https://github-readme-activity-graph.vercel.app/graph?username=mairinkdev&bg_color=0d1117&color=ff0000&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
 ⭐ **Se curtir meu trabalho, deixa uma ⭐ nos repositórios e me segue por aqui!**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer"/>
