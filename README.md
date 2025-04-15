@@ -27,7 +27,7 @@ I strive to apply technical knowledge in a practical and creative way to solve r
 
 ---
 
-#### 🎨 Frontend
+#### Frontend
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" title="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" title="CSS3"/>
@@ -37,7 +37,7 @@ I strive to apply technical knowledge in a practical and creative way to solve r
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40px" title="Next.js"/>
 </div>
 
-#### ⚙️ Backend
+#### Backend
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px" title="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" title="Python"/>
@@ -47,7 +47,7 @@ I strive to apply technical knowledge in a practical and creative way to solve r
   <img src="https://img.shields.io/badge/REST-API-ff0000?style=flat&logo=api&logoColor=white" title="REST APIs"/>
 </div>
 
-#### 🧠 Data
+#### Data
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40px" title="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px" title="MySQL"/>
@@ -57,7 +57,7 @@ I strive to apply technical knowledge in a practical and creative way to solve r
   <img src="https://img.shields.io/badge/SQL-Query-ff0000?style=flat&logo=sqlite&logoColor=white" title="SQL"/>
 </div>
 
-#### 🚀 DevOps
+#### DevOps
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40px" title="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" title="Git"/>
@@ -68,8 +68,6 @@ I strive to apply technical knowledge in a practical and creative way to solve r
 </div>
 
 ---
-
-### 📈
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mairinkdev&show_icons=true&theme=dark&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=0d1117&hide_border=true"/>
