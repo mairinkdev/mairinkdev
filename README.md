@@ -7,9 +7,9 @@
 
 ### 
 
-I'm passionate about technology, software development, and information security
-Naturally curious, I'm constantly exploring new tools, languages, and architectures
-I strive to apply technical knowledge in a practical and creative way to solve real-world problems
+I'm passionate about technology, software development, and information security.
+Naturally curious, I'm constantly exploring new tools, languages, and architectures.
+I strive to apply technical knowledge in a practical and creative way to solve real-world problems.
 
 ---
 
