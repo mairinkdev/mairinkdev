@@ -5,11 +5,11 @@
 
 ---
 
-### ⚡
+### 
 
-Sou apaixonado por tecnologia, desenvolvimento de software e segurança da informação.  
-Curioso por natureza, estou sempre explorando novas ferramentas, linguagens e arquiteturas.  
-Busco aplicar conhecimento técnico de forma prática e criativa para resolver problemas reais.
+I'm passionate about technology, software development, and information security
+Naturally curious, I'm constantly exploring new tools, languages, and architectures
+I strive to apply technical knowledge in a practical and creative way to solve real-world problems
 
 ---
 
@@ -30,8 +30,6 @@ Busco aplicar conhecimento técnico de forma prática e criativa para resolver p
 ---
 
 ### 🛠️
-
-**Full-stack developer com experiência em front-end, back-end, banco de dados e infraestrutura.**
 
 #### 🎨 Frontend
 <div align="center">
