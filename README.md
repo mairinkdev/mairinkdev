@@ -57,6 +57,4 @@
   <img src="https://img.shields.io/badge/Shell-Terminal-000000?style=flat&logo=gnubash&logoColor=white" title="Terminal"/>
 </div>
 
----
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer"/>
