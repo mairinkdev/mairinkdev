@@ -3,8 +3,6 @@
 <h1 align="center">Arthur Mairink</h1>
 <img src="https://readme-typing-svg.herokuapp.com/?color=FF0000&size=25&center=true&vCenter=true&width=1000&lines=Full-Stack+Developer;Cybersecurity+Practitioner" />
 
----
-
 <div align="center">
   <a href="mailto:arthur@email.com">
     <img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white"/>
