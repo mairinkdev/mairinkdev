@@ -1,80 +1,79 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=header"/>
+
 <h1 align="center">Arthur Mairink</h1>
-<p align="center"><strong>Full-Stack Engineer · Cybersecurity Specialist</strong></p>
-<p align="center">
-  <a href="mailto:arthur@email.com"><img src="https://img.shields.io/badge/email-ff0000?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/arthur-mairink" target="_blank"><img src="https://img.shields.io/badge/linkedin-ff0000?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/mairinkdev" target="_blank"><img src="https://img.shields.io/badge/github-ff0000?style=flat&logo=github&logoColor=white"/></a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com/?color=FF0000&size=25&center=true&vCenter=true&width=1000&lines=Full-Stack+Developer;Cybersecurity+Practitioner" />
 
 ---
 
-### Tech Stack
+### 
 
-**Languages & Core**
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="32" />
-</div>
+I'm passionate about technology, software development, and information security.
+Naturally curious, I'm constantly exploring new tools, languages, and architectures.
+I strive to apply technical knowledge in a practical and creative way to solve real-world problems.
 
-**Web & Frontend**
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32" />
-</div>
+---
 
-**Backend & Infra**
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="32" />
-</div>
-
-**Databases**
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="32" />
+  <a href="mailto:arthur@email.com">
+    <img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/arthur-mairink/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/mairinkdev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </div>
 
 ---
 
-### Selected Projects
+#### Frontend
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40px" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40px" title="Next.js"/>
+</div>
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [`cfbuster`](https://github.com/mairinkdev/cfbuster) | Origin server recon tool with fingerprinting, CDN evasion and DNS automation | Rust, Shodan |
-| [`ReconX`](https://github.com/mairinkdev/ReconX) | Internal network mapping, service detection, PTR & AXFR automation | Rust, Shell |
-| [`DevBill`](https://github.com/mairinkdev/DevBill) | Lightweight invoicing system for devs and freelancers | Java, CLI |
-| [`TriggerDoor`](https://github.com/mairinkdev/TriggerDoor) | Reverse shell injector using CreateRemoteThread for stealth ops | C/C++, Assembly |
-| [`API Hunter`](https://github.com/mairinkdev/API-Hunter) | Bruteforce and discover hidden API endpoints and keys | Rust |
+#### Backend
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40px" title="Express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40px" title="GraphQL"/>
+  <img src="https://img.shields.io/badge/REST%20API-000000?style=flat&logo=fastapi&logoColor=white" title="REST APIs"/>
+</div>
+
+#### Data
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40px" title="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40px" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40px" title="Firebase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40px" title="Redis"/>
+  <img src="https://img.shields.io/badge/SQL%20Query-000000?style=flat&logo=sqlite&logoColor=white" title="SQL"/>
+</div>
+
+#### DevOps
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40px" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px" title="GitHub"/>
+  <img src="https://img.shields.io/badge/CI/CD-000000?style=flat&logo=githubactions&logoColor=white" title="CI/CD"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40px" title="Linux"/>
+  <img src="https://img.shields.io/badge/Shell-Terminal-000000?style=flat&logo=gnubash&logoColor=white" title="Terminal"/>
+</div>
 
 ---
 
-### Principles
-
-- Modular architecture, CLI-first, zero overhead  
-- Low-level + high-level versatility  
-- Clean, readable, reusable code  
-- Secure-by-default mindset  
-- Tools that solve problems — not impress algorithms
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mairinkdev&show_icons=true&theme=dark&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=0d1117&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mairinkdev&layout=compact&theme=dark&title_color=ff0000&text_color=ffffff&bg_color=0d1117&hide_border=true"/>
+</div>
 
 ---
 
-### GitHub Overview
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mairinkdev&show_icons=true&theme=dark&hide_border=true&title_color=ff0000&icon_color=ff0000" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mairinkdev&layout=compact&theme=dark&hide_border=true&title_color=ff0000" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mairinkdev&style=flat&color=ff0000" alt="profile views"/>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer"/>
