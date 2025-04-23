@@ -53,7 +53,6 @@
   <img src="https://img.shields.io/badge/Shell-Terminal-8A2BE2?style=flat&logo=gnubash&logoColor=white" title="Terminal"/>
 </div>
 
----
 <img src="https://github-readme-stats.vercel.app/api?username=mairinkdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=8A2BE2&text_color=ffffff" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
