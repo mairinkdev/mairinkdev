@@ -59,7 +59,7 @@
   </a>
 
   <h2>🧠 Founder of <a href="https://github.com/CorteX-Club">CorteX Club</a></h2>
-  <p><em>Open-source intelligence & cybersecurity tools made with precision and passion.</em></p>
+  <p><em>We develop open-source micro-systems, developer tools, and cybersecurity utilities — efficient, scalable, and free.</em></p>
 </div>
 
 ---
