@@ -71,12 +71,7 @@
   </a>
 
   <!-- GitHub Stats -->
-<div style="background-color: #0d1117; border-radius: 15px; padding: 8px; display: inline-block;">
-  <img src="https://github-readme-stats.vercel.app/api?username=mairinkdev&show_icons=true&hide=prs&count_private=true&theme=midnight-purple&border_radius=30" 
-       alt="GitHub Stats" 
-       width="400"
-       style="border: none;" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=mairinkdev&show_icons=true&hide=prs&count_private=true&theme=midnight-purple&border_radius=30" alt="GitHub Stats" width="400" />
 </div>
 
 ###
