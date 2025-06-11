@@ -5,6 +5,21 @@
 </p>
 
 <p align="center">
+
+  <!-- Programming -->
+   <a href="https://www.java.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+  <a href="https://www.rust-lang.org/" target="_blank">
+    <img src="http://rust-lang.org/logos/rust-logo-128x128.png" alt="Rust" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  
   <!-- Web Dev -->
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
@@ -20,20 +35,6 @@
   </a>
   <a href="https://nodejs.org" target="_blank">
     <img src="https://nodejs.org/static/images/logo.svg" alt="Node.js" width="40" height="40">
-  </a>
-
-  <!-- Programming -->
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://www.rust-lang.org/" target="_blank">
-    <img src="http://rust-lang.org/logos/rust-logo-128x128.png" alt="Rust" width="40" height="40"/>
   </a>
 
   <!-- Tools -->
