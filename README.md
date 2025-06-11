@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00008B&center=true&multiline=true&width=435&height=30&lines=Hi!+I'm+Arthur+Mairink!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=120A8F&center=true&multiline=true&width=435&height=30&lines=Hi!+I'm+Arthur+Mairink!)](https://git.io/typing-svg)
 
 <p align="center">
   📫 Contact: <strong>arthur@mairink.com.br</strong>
@@ -70,7 +70,8 @@
   </a>
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mairinkdev&show_icons=true&hide=prs&count_private=true&theme=midnight-purple&border_radius=20" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mairinkdev&show_icons=true&hide=prs&count_private=true&border_radius=20&title_color=034da3&text_color=034da3&icon_color=034da3&bg_color=0d1117&hide_border=true" alt="GitHub Stats" width="400" />
+
 </div>
 
 ###
