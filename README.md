@@ -58,7 +58,7 @@
     <img src="https://github.com/Arven-Club.png" alt="Arven-Club Logo" width="100" />
   </a>
 
-  <h2>Founder of <a href="https://github.com/Arven-Club">Arven-Club</a></h2>
+  <h2>Founder of <a href="https://github.com/Arven-Club">Arven</a></h2>
 </div>
 
 ---
