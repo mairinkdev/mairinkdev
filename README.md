@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=ADD8E6&center=true&multiline=true&width=435&height=30&lines=Hi!+I'm+Arthur+Mairink!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00008B&center=true&multiline=true&width=435&height=30&lines=Hi!+I'm+Arthur+Mairink!)](https://git.io/typing-svg)
 
 <p align="center">
   📫 Contact: <strong>arthur@mairink.com.br</strong>
@@ -66,7 +66,7 @@
 <div align="center">
   <!-- Discord Presence -->
   <a href="https://discord.com/users/1356757445766021190">
-    <img src="https://lanyard-profile-readme.vercel.app/api/1356757445766021190?theme=midnight-purple&bg=000000&animated=true&borderRadius=20px" alt="Discord Presence" width="300" />
+    <img src="https://lanyard-profile-readme.vercel.app/api/1356757445766021190?theme=midnight-blue&bg=000000&animated=true&borderRadius=20px" alt="Discord Presence" width="300" />
   </a>
 
   <!-- GitHub Stats -->
