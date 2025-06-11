@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=8A2BE2&center=true&multiline=true&width=435&height=30&lines=Hi!+I'm+Arthur+Mairink!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=ADD8E6&center=true&multiline=true&width=435&height=30&lines=Hi!+I'm+Arthur+Mairink!)](https://git.io/typing-svg)
 
 <p align="center">
   📫 Contact: <strong>arthur@mairink.com.br</strong>
@@ -54,12 +54,11 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/CorteX-Club" target="_blank">
-    <img src="https://github.com/CorteX-Club.png" alt="CorteX Club Logo" width="100" />
+  <a href="https://github.com/Arven-Club" target="_blank">
+    <img src="https://github.com/Arven-Club.png" alt="Arven-Club Logo" width="100" />
   </a>
 
-  <h2>🧠 Founder of <a href="https://github.com/CorteX-Club">CorteX Club</a></h2>
-  <p><em>We develop open-source micro-systems, developer tools, and cybersecurity utilities — efficient, scalable, and free.</em></p>
+  <h2>Founder of <a href="https://github.com/CorteX-Club">Arven-Club</a></h2>
 </div>
 
 ---
