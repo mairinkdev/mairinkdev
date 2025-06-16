@@ -24,6 +24,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.plugin.isocalendar.halfyear.svg
           output_action: commit
+          output_dir: ./
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
