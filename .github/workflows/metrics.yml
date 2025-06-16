@@ -6,19 +6,20 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write 
+  contents: write
   packages: read
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Install dependencies
+      - name: Install jq (only)
         run: |
           sudo apt-get update
-          sudo apt-get install -y docker.io jq
+          sudo apt-get install -y jq
 
-      - uses: lowlighter/metrics@latest
+      - name: Generate Isometric Calendar
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.plugin.isocalendar.halfyear.svg
