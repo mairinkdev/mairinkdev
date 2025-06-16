@@ -56,6 +56,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mairinkdev/mairinkdev/main/metrics.plugin.music.svg" alt="Spotify" />
+</p>
+
 ---
 
 <div align="center">
