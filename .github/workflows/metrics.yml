@@ -2,7 +2,7 @@ name: Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *" 
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 permissions:
@@ -31,9 +31,9 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
-          # 🔹 Plugin: Spotify
+          # 🔹 Plugin: Spotify (com playlist personalizada)
           plugin_music: yes
           plugin_music_provider: spotify
           plugin_music_mode: playlist
-          plugin_music_playlist: 0KHrbMfDXbQ7Bn4dEkYb2w
+          plugin_music_playlist: 0KHrbMfDXbQ7Bn4oW0W0jI  #ID
           plugin_music_limit: 3
