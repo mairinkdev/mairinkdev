@@ -6,6 +6,10 @@
 
 <p align="center">
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mairinkdev/mairinkdev/main/metrics.plugin.isocalendar.halfyear.svg" alt="Isometric Commit Calendar - Half Year" />
+</p>
+
   <!-- Programming -->
    <a href="https://www.java.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
