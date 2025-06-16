@@ -62,18 +62,6 @@
   <h2>Founder of <a href="https://github.com/Arven-Club">Arven</a></h2>
 </div>
 
----
-
-<div align="center">
-  <!-- Discord Presence -->
-  <a href="https://discord.com/users/1356757445766021190">
-    <img src="https://lanyard-profile-readme.vercel.app/api/1356757445766021190?theme=midnight-blue&bg=000000&animated=true&borderRadius=20px" alt="Discord Presence" width="300" />
-  </a>
-
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mairinkdev&show_icons=true&hide=prs&count_private=true&border_radius=20&title_color=034da3&text_color=034da3&icon_color=034da3&bg_color=0d1117&hide_border=true" alt="GitHub Stats" width="400" />
-
-</div>
 
 ###
 <br/>
