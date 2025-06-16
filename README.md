@@ -1,7 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=120A8F&center=true&multiline=true&width=435&height=30&lines=Hi!+I'm+Arthur+Mairink!)](https://git.io/typing-svg)
-
 <p align="center">
-  📫 Contact: <strong>arthur@mairink.com.br</strong>
+  <strong>arthur@mairink.com.br</strong>
 </p>
 
 <p align="center">
@@ -54,22 +52,6 @@
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mairinkdev/mairinkdev/main/metrics.plugin.music.svg" alt="Spotify" />
-</p>
-
----
-
-<div align="center">
-  <a href="https://github.com/Arven-Club" target="_blank">
-    <img src="https://github.com/Arven-Club.png" alt="Arven-Club Logo" width="100" />
-  </a>
-
-  <h2>Founder of <a href="https://github.com/Arven-Club">Arven</a></h2>
-</div>
-
-
+</p
 ###
 <br/>
