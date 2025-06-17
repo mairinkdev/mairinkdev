@@ -18,22 +18,27 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y jq
 
-      - name: Generate GitHub Metrics (Commit Calendar + Spotify)
+      - name: Generate GitHub Metrics (Calendar + Spotify + AniList)
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics.plugin.music.svg
+          filename: metrics.full.svg
           output_action: commit
           base: ""
           config_timezone: America/Sao_Paulo
 
-          # 🔹 Plugin: Calendário Isométrico
+          # Commits
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
-          # 🔹 Plugin: Spotify (com playlist personalizada)
+          # Spotify
           plugin_music: yes
           plugin_music_provider: spotify
           plugin_music_mode: playlist
-          plugin_music_playlist: 0KHrbMfDXbQ7Bn4oW0W0jI  #ID
+          plugin_music_playlist: 0KHrbMfDXbQ7Bn4oW0W0jI
           plugin_music_limit: 3
+
+          # AniList
+          plugin_anilist: yes
+          plugin_anilist_user: mairink
+          plugin_anilist_sections: favorites
