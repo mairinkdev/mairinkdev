@@ -18,7 +18,7 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y jq
 
-      - name: Generate GitHub Metrics (Calendar + Spotify + AniList)
+      - name: Generate Full GitHub Metrics (Calendar + Spotify + AniList)
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
