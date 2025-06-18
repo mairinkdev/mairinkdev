@@ -2,7 +2,7 @@ name: Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *" 
+    - cron: "0 0 * * *"
   workflow_dispatch:
   push:
     branches: ["main"]
@@ -27,6 +27,7 @@ jobs:
           plugin_languages_limit: 6
           plugin_languages_sections: most-used
           plugin_languages_categories: programming
+          plugin_languages_ignored: css
           plugin_languages_indepth: no
 
           plugin_isocalendar: yes
