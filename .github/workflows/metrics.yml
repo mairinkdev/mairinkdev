@@ -52,5 +52,6 @@ jobs:
 
           plugin_anilist: yes
           plugin_anilist_medias: anime
+          plugin_anilist_user: mairink
           plugin_anilist_sections: favorites
           plugin_anilist_limit: 2
