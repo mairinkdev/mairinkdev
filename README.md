@@ -5,7 +5,7 @@
 <p align="center">
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mairinkdev/mairinkdev/main/metrics.plugin.isocalendar.halfyear.svg" alt="Isometric Commit Calendar - Half Year" />
+  <img src="https://raw.githubusercontent.com/mairinkdev/mairinkdev/main/metrics.full.svg" alt="GitHub Metrics Full" />
 </p>
 
   <!-- Programming -->
