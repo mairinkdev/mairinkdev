@@ -36,6 +36,6 @@ jobs:
           base: "" 
           config_timezone: America/Sao_Paulo
           plugin_anilist: yes
-          plugin_anilist_user: arthurmairink
+          plugin_anilist_user: mairink
           plugin_anilist_medias: anime
           plugin_anilist_sections: favorites
