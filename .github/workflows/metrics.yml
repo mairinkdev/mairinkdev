@@ -19,8 +19,19 @@ jobs:
           user: mairinkdev
           template: classic
           filename: metrics.left.svg
-          base: activity
           config_timezone: America/Sao_Paulo
+          
+          # Base: activity
+          base: activity
+
+          # Plugins adicionais
+          plugin_languages: yes
+          plugin_languages_limit: 6
+          plugin_languages_sections: most-used
+          plugin_languages_categories: programming
+          
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
 
   metrics-right:
     runs-on: ubuntu-latest
@@ -33,9 +44,12 @@ jobs:
           user: mairinkdev
           template: classic
           filename: metrics.right.svg
-          base: "" 
+          base: ""
           config_timezone: America/Sao_Paulo
+          
+          # Anilist
           plugin_anilist: yes
           plugin_anilist_user: mairink
           plugin_anilist_medias: anime
           plugin_anilist_sections: favorites
+          plugin_anilist_limit: 1
