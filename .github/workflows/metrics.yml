@@ -46,10 +46,10 @@ jobs:
           filename: metrics.right.svg
           config_timezone: America/Sao_Paulo
 
-          base: ""
-
+          # Coloque o Anilist como base para ficar no topo
+          base: anilist
           plugin_anilist: yes
           plugin_anilist_user: mairink
           plugin_anilist_medias: anime
           plugin_anilist_sections: favorites
-          plugin_anilist_limit: 1
+          plugin_anilist_limit: 3
