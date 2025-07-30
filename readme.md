@@ -1,5 +1,5 @@
 TypeScript, Rust, Java, Python  
 
-[Portfolio](https://mairink.vercel.app/)
+<a href="https://mairink.vercel.app/" target="_blank">Portfolio</a>
 
 arthur@mairink.com.br
