@@ -1,4 +1,4 @@
-TypeScript, Rust, Python  
+Rust, TypeScript, Python  
 
 [Portfolio](https://mairink.com/)
 
